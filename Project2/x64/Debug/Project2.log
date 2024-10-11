@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.cpp(34,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.cpp(34,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.cpp(40,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int **”
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.cpp(40,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int **" 的参数 1 冲突
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.cpp(42,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int **”
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.cpp(42,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int **" 的参数 1 冲突
+  Project2.vcxproj -> C:\Users\Administrator\source\repos\Project2\x64\Debug\Project2.exe
